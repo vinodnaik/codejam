@@ -1,0 +1,1 @@
+This repository contains the python source code for the Google code jam practice problems I tried.
