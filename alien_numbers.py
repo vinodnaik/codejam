@@ -33,20 +33,12 @@ import sys
 
 # Sample
 
-
-# Input 
-
-# Output 
+# Input 			Output 
 # 4
-# 9 0123456789 oF8
-# Foo oF8 0123456789
-# 13 0123456789abcdef 01
-# CODE O!CDE? A?JM!.
-
-# Case #1: Foo
-# Case #2: 9
-# Case #3: 10011
-# Case #4: JAM!
+# 9 0123456789 oF8		Case #1: Foo
+# Foo oF8 0123456789		Case #2: 9
+# 13 0123456789abcdef 01 	Case #3: 10011
+# CODE O!CDE? A?JM!.		Case #4: JAM!
 
 def source_base10(s,hasht):
     snum=[]
